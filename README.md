@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Aurelio;I'm+28+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarkAurelio1&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FF0000&bg_color=0d1117" alt="Marcos Aurelio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkAurelio1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FF0000&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarkAurelio1&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkAurelio1&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkAurelio1&bg_color=000000&color=ffffff&line=ededed&point=f50000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph),
